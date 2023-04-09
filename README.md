@@ -1,2 +1,2 @@
 # desertuberria
-Proyecto realizado con bootstrtap4
+Proyecto simple realizado con react utilizando estilos de bootstrtap4
